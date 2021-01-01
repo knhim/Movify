@@ -1,4 +1,4 @@
 # Movify
 A dynamic social networking web application for movie enthusiasts who want to journal, share, and categorize their movie interests. 
 
-Website: https://movify.kevinhim.com/
+Website: https://movify.kevinnhim.com/
